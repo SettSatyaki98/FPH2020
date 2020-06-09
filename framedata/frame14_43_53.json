@@ -1,0 +1,16 @@
+{
+    "object1": {
+        "object name": "bottle",
+        "score": 92,
+        "sentence": "A bottle has been detected with 92% confidence.",
+        "translated sentence": "A bottle has been detected with 92% confidence.",
+        "audio filename": "audioframe0_object1_144341.mp3"
+    },
+    "object2": {
+        "object name": "person",
+        "score": 53,
+        "sentence": "A person has been detected with 53% confidence.",
+        "translated sentence": "A person has been detected with 53% confidence.",
+        "audio filename": "audioframe0_object2_144347.mp3"
+    }
+}

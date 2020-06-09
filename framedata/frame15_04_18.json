@@ -1,0 +1,9 @@
+{
+    "object1": {
+        "object name": "person",
+        "score": 72,
+        "sentence": "A person has been detected with 72% confidence.",
+        "translated sentence": "A person has been detected with 72% confidence.",
+        "audio filename": "audioframe0object1150412.mp3"
+    }
+}

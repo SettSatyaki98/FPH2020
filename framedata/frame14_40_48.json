@@ -1,0 +1,9 @@
+{
+    "object1": {
+        "object name": "bottle",
+        "score": 89,
+        "sentence": "A bottle has been detected with 89% confidence.",
+        "translated sentence": "\u098f\u0995\u099f\u09bf \u09ac\u09cb\u09a4\u09b2 89% \u0986\u09a4\u09cd\u09ae\u09ac\u09bf\u09b6\u09cd\u09ac\u09be\u09b8\u09c7\u09b0 \u09b8\u0999\u09cd\u0997\u09c7 \u09b8\u09a8\u09be\u0995\u09cd\u09a4 \u0995\u09b0\u09be \u09b9\u09af\u09bc\u09c7\u099b\u09c7\u0964",
+        "audio filename": "audioframe0_object1_144046.mp3"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "object1": {
+        "object name": "car",
+        "score": 87,
+        "sentence": "A car has been detected with 87% confidence.",
+        "translated sentence": "A car has been detected with 87% confidence.",
+        "audio filename": "audioframe0_object1_144906.mp3"
+    },
+    "object2": {
+        "object name": "car",
+        "score": 83,
+        "sentence": "A car has been detected with 83% confidence.",
+        "translated sentence": "A car has been detected with 83% confidence.",
+        "audio filename": "audioframe0_object2_144913.mp3"
+    },
+    "object3": {
+        "object name": "car",
+        "score": 59,
+        "sentence": "A car has been detected with 59% confidence.",
+        "translated sentence": "A car has been detected with 59% confidence.",
+        "audio filename": "audioframe0_object3_144920.mp3"
+    }
+}

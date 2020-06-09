@@ -1,0 +1,9 @@
+{
+    "object1": {
+        "object name": "person",
+        "score": 87,
+        "sentence": "A person has been detected with 87% confidence.",
+        "translated sentence": "\u098f\u0995\u099c\u09a8 \u09ac\u09cd\u09af\u0995\u09cd\u09a4\u09bf 87% \u0986\u09a4\u09cd\u09ae\u09ac\u09bf\u09b6\u09cd\u09ac\u09be\u09b8\u09c7\u09b0 \u09b8\u0999\u09cd\u0997\u09c7 \u09b8\u09a8\u09be\u0995\u09cd\u09a4 \u0995\u09b0\u09be \u09b9\u09af\u09bc\u09c7\u099b\u09c7\u0964",
+        "audio filename": "audioframe0_object1_143908.mp3"
+    }
+}
